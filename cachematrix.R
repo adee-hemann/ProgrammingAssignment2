@@ -5,7 +5,7 @@
 ## not changed), then the cachesolve should retrieve the inverse from the cache.
 
 
-## creates special matrixs object
+## creates special matrix object
 
 makeCacheMatrix <- function(x = matrix()) {
         i <- NULL
